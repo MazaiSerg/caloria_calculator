@@ -1,1 +1,1 @@
-@# caloria_calculator@
+# calorie_calculator
