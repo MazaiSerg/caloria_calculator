@@ -1,0 +1,12 @@
+{
+  "name": "calorie_calculator",
+  "private": true,
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  },
+  "workspaces": ["packages/*"],
+  "scripts": {
+    "start": "lerna run start",
+    "test": "lerna run test --stream --parallel"
+  }
+}
